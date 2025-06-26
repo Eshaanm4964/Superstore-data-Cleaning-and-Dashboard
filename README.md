@@ -53,40 +53,40 @@ To explore Superstore’s sales performance across time, region, category, and s
 
 
 
-**🔍 Dataset Info**
+🔍 Dataset Info:
 Source: Kaggle – Superstore Dataset
 Rows: ~10,000
 Columns: 21
 Time Range: 2014–2017
 Fields Used: Sales, Profit, Discount, Order Date, Category, Sub-Category, Region, Segment, etc.
 
-🔧 **Data Cleaning Steps (Python)**
+🔧 Data Cleaning Steps (Python):
 Removed nulls and duplicates
 Added calculated fields like Profit Margin
 Verified data types and removed unused columns
 Saved the clean output to Cleaned_Superstore_Data.csv
 
-📂** Notebook**
+📂Notebook:
 
-**📸 Dashboard Preview**
+📸 Dashboard Preview:
 
-**📌 Insights**
+📌 Insights:
 📈 Sales and Profit increased steadily, peaking in 2017
 🌍 West region and Consumer segment are top contributors
 💡 Technology products like Phones are highly profitable
 📉 Average discount (~16%) may hurt overall margins
 📦 Tables sub-category underperforms despite decent sales
 
-**🧠 Recommendations**
+🧠 Recommendations:
 Focus on high-margin categories and reduce over-discounting
 Investigate reasons behind poor-performing sub-categories
 Scale winning segments and regions like West & Technology
 Use predictive analysis to forecast future sales trends
 
-**🖥️ PowerPoint Summary**
+🖥️ PowerPoint Summary:
 You’ll find a full business-ready presentation in Superstore.pptx 
 
-**Project Objective**
+Project Objective:
 Dataset Summary
 KPI Definitions
 Dashboard Screenshot
